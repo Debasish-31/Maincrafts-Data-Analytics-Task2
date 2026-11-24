@@ -12,7 +12,7 @@ This repository contains my Task-2 relational business intelligence project buil
 ---
 
 ### Interactive Power BI KPI Dashboard
-![Superstore Relational KPI & Performance Dashboard](task2_dashboard_screenshot.png)
+![Superstore Relational KPI & Performance Dashboard](dashboard_screenshot.png)
 
 ---
 
